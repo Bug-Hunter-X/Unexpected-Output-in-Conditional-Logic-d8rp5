@@ -1,0 +1,1 @@
+function foo(a,b){if(a==1)return 1;else if(b==1)return 3;else if (a==2)return 2;else return 4;}console.log(foo(2,1)); //outputs 3
