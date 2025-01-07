@@ -1,0 +1,1 @@
+This repository contains a JavaScript code example demonstrating a common logic error in conditional statements. The `foo` function uses `if/else if/else` to determine the return value based on the input parameters. However, the order of conditions leads to an incorrect result when `a` is 2 and `b` is 1.  The `bugSolution.js` file provides a corrected version of the code.
